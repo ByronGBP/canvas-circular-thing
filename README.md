@@ -1,6 +1,6 @@
 # Circular thing
 
-## Made with canvas 
+## Made with canvas 
 
 - Give it a try:
 
