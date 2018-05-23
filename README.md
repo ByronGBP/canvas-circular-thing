@@ -1,7 +1,10 @@
 # Circular thing
 
-Made with canvas 
+## Made with canvas 
 
-Give it a try:
+- Give it a try:
 
-[url];
+   - [!!!!!](https://byrongbp.github.io/canvas-circular-thing/)
+   
+- TODO
+  - [!!!!!](./TODO.md)
